@@ -1,6 +1,6 @@
 h1{
     color:black;
-    position:center;
+    text-align:center;
 }
 body{
     background-color: rgb(0, 204, 255);
@@ -46,6 +46,7 @@ nav {
   div.gallery img {
     width: 100%;
     height: auto;
+    border-left: 50px;
   }
   
   div.desc {
