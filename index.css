@@ -2,7 +2,7 @@ h1{
     color:black;
 }
 body{
-    background-color: orange;
+    background-color: rgb(0, 204, 255);
 }
 nav {
     max-width: 960px;
@@ -27,4 +27,18 @@ nav {
  background: rgba(221, 109, 35, 0.678);
  color: rgba(0, 35, 122, 0.7);
  }
- 
+ p{
+     border: 3px;
+     color:red;
+ }
+ img{
+    div.absolute {
+        position: absolute;
+        top: 80px;
+        right: 0;
+        width: 200px;
+        height: 100px;
+        border: 3px solid #73AD21;
+        color:yellow;
+      }
+ }
