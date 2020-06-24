@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 h1{
     color:black;
     text-align:center;
@@ -34,7 +38,15 @@ nav {
      border: 3px;
      color:red;
  }
- .container{
+ /*.container{
    width:80%;
  }
- 
+
+ */
+ .column {
+  float: left;
+  width: 50%;
+}
+.column form-book{
+  text-align: right;
+}
