@@ -37,7 +37,7 @@ nav {
      border: 3px;
      color:red;
  }
- /*.container{
+ .container{
    width:80%;
  }
 
@@ -59,10 +59,10 @@ h3{
   text-align:center;
   color:white;
 }
-.button{
-  /* float:right; */
-  width:200px;
-  padding-right:100px;
+.button{s
+  float:right; 
+  width:200 px;
+  padding-right: 100px;
   margin-right: auto;
 }
 .main{
@@ -108,14 +108,20 @@ flex:1;
    display: flex;
    
  }
-  #safety>img{
+  /* #row-1{
+    height: 300px;
+    width:300px;
+    flex:2;
+  
+    
+  }
+  #row-2{
     height: 300px;
     width: 300px;
-  }
-  #gud-book>img{
-    height: 300px;
-    width: 300px;
-  }
-  section{
-    display: flex;
-  }
+  flex: 1; */
+
+.images2{
+  display: flex;
+}
+    
+  
