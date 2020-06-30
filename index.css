@@ -88,7 +88,7 @@ flex:1;
   text-align: center;
 }
   .footer{
-  padding:200px;
+  padding:3pxpx;
  margin-right: 0;
  text-transform: uppercase;
  text-decoration: none;
@@ -97,7 +97,7 @@ flex:1;
  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
   color: rgba(8, 129, 199, 0.7);
   background-color: rgb(51, 96, 230);
- text-align: center;
+ text-align:right;
  
  }
  h6{
@@ -123,5 +123,8 @@ flex:1;
 .images2{
   display: flex;
 }
-    
+ .social icons image{
+   width: 3px;
+   height: 3px;
+ } 
   
