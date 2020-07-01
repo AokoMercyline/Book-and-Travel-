@@ -102,4 +102,21 @@
      text-align: center;
      color: white;
    } 
-    
+
+   .image-2{
+     display: flex;
+     justify-content: space-between;
+
+   }
+   #bowl{
+     height: 400px;
+     width: 500px;
+   }
+    .intro{
+      display: flex;
+      padding: 30px;
+    }
+    #travel{
+      height: 400px;
+      padding:30px;
+    }
